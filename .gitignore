@@ -112,3 +112,8 @@ exports
 *.cache
 build
 .strapi-updater.json
+
+
+config/server.js
+
+package-lock.json
